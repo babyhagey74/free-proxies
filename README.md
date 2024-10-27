@@ -13,3 +13,26 @@
 ### Rate Limit Management
 
 To maintain the integrity and reliability of the proxy lists, the **Free Proxy List** system incorporates a rate limit management feature. If the lists do not update within 30 minutes, it is either a server error, or we have reached a ratelimit. Please wait for the proxies to update to get latest stats, or just use them.
+
+# Raw Proxy List
+In a rush and don't know how to fetch them? No worries!
+
+## **HTTP**
+```
+https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/http/http.txt
+```
+
+## **HTTPS**
+```
+https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/https/https.txt
+```
+
+## **SOCKS4**
+```
+https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks4/socks4.txt
+```
+
+## **SOCKS5**
+```
+https://raw.githubusercontent.com/babyhagey74/free-proxies/refs/heads/main/proxies/socks5/socks5.txt
+```
