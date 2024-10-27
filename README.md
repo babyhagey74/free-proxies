@@ -12,4 +12,4 @@
 
 ### Rate Limit Management
 
-To maintain the integrity and reliability of the proxy lists, the **Free Proxy List** system incorporates a rate limit management feature. If the lists do not update, it likely indicates that the project has reached a rate limit set by the proxy sources. In such cases, users are advised to wait for an hour before attempting to refresh the lists again. This proactive management helps prevent disruptions and ensures that users have continuous access to functioning proxies.
+To maintain the integrity and reliability of the proxy lists, the **Free Proxy List** system incorporates a rate limit management feature. If the lists do not update within 30 minutes, it is either a server error, or we have reached a ratelimit. Please wait for the proxies to update to get latest stats, or just use them.
