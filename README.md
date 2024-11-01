@@ -4,7 +4,7 @@
 
 ### Key Features
 
-- **Automated Updates**: The **Free Proxy List** system automatically updates the proxy lists every 10 minutes. This feature eliminates the need for manual intervention, allowing users to focus on their projects without worrying about the reliability of their proxies. The frequent updates ensure that users can access fresh and effective proxies, enhancing their online activities.
+- **Automated Updates**: The **Free Proxy List** system automatically updates the proxy lists every 5 minutes. This feature eliminates the need for manual intervention, allowing users to focus on their projects without worrying about the reliability of their proxies. The frequent updates ensure that users can access fresh and effective proxies, enhancing their online activities.
 
 - **Diverse Proxy Sources**: To maximize the reliability and variety of proxies, **Free Proxy List** fetches data from multiple trusted providers. By aggregating proxy information from various sources, the tool ensures that users benefit from a wide selection of SOCKS5, SOCKS4, HTTPS and HTTP proxies, suitable for different applications, such as web scraping, data mining, and maintaining anonymity online.
 
